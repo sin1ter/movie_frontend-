@@ -4,7 +4,7 @@ This is a React project where I learned how to interact with APIs and implement 
 
 ## Live Demo
 
-Check out the live version of the project here: [Live React Movie App](https://movie-frontend-mu.vercel.app/)
+Check out the live version of the project here: [Live Link](https://movie-frontend-mu.vercel.app/)
 
 
 ## Key Features
