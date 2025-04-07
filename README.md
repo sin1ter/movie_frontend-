@@ -9,7 +9,7 @@ Check out the live version of the project here: [Live Link](https://movie-fronte
 
 ## Key Features
 
-- **API Integration**: Learn how to fetch movie data from a public API (e.g., [The Movie Database API](https://www.themoviedb.org/documentation/api)).
+- **API Integration**: Learned how to fetch movie data from a public API (e.g., [The Movie Database API](https://www.themoviedb.org/documentation/api)).
 - **Pagination**: Implemented pagination to load a limited number of movies at a time.
 - **Infinite Scrolling**: Automatically loads more movies as the user scrolls down.
 - **Search Functionality**: Allows users to search for movies by title. The list updates dynamically based on the user's input.
